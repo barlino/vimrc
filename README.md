@@ -1,4 +1,4 @@
 Installation
 ================
 	cd ~
-	git clone ~/.vimrc
+	git clone https://raw.githubusercontent.com/barlino/vimrc/master/.vimrc ~/.vimrc
